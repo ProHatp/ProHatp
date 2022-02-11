@@ -47,9 +47,6 @@
   
 <br>
  
-<p align="center">Para entrar em contato chama ai <br>
-Links so clicar....! &gt;~&lt; xD </p>
-
 <p align="center">
   <a href="https://www.instagram.com/luizwanderson_/" alt="Instagram" rel="nofollow">
     <img src="https://camo.githubusercontent.com/d2762a4e936630dd0c8c620e99979dfc2f370ef1809d61dabec6ed1fa74ee711/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d3143314331433f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d303046464646266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f69757269636f6465" data-canonical-src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&amp;logo=Instagram&amp;logoColor=00FFFF&amp;link=https://www.instagram.com/luizwanderson_/" style="max-width:100%;">
