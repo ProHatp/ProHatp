@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC008E&width=435&lines=Seja+bem+vindo+ao+meu+perfil;Eu+sou+o+Luiz+Wanderson)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC008E&width=435&lines=Seja+bem+vindo+ao+meu+github;Eu+sou+o+Luiz+Wanderson)](https://git.io/typing-svg)
 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" style="max-width:100%;"></a>
 
