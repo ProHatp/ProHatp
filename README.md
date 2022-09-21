@@ -27,7 +27,7 @@
     <b>Nick:</b> ProHat , ProHatp
     </li>
     <li>
-    <b>Gênero:</b> Masculino
+    <b>Gênero:</b> Feminino
     </li>
     <li>
     <b>Hobbys:</b> Desenhar, Assistir animes , Ler
