@@ -24,7 +24,7 @@
     <b>Nacionalidade:</b> Brasil
     </li>
     <li>
-    <b>Nick:</b> ProHat , ProHatp
+    <b>Nicks:</b> ProHat, ProHatp, ProHatCB
     </li>
     <li>
     <b>Gênero:</b> Masculino
